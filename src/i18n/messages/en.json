@@ -1,0 +1,53 @@
+{
+  "welcome": "Welcome!",
+  "iam": "I'm",
+  "FullStack Developer": "FullStack Developer",
+  "Multimedia Engineer": "Multimedia Engineer",
+  "LetMe": "Let Me",
+  "Introduce": "Introduce",
+  "Myself": "Myself",
+  "subtitle": "I'm Multimedia Engineer and FullStack developer from Cali, Colombia with experience in internal communications, web and mobile development 🤖",
+  "fluent": "I am fluent in classics like",
+  "reactNode": " React.js and Node.js. ",
+  "interest": "My field of Interest's are",
+  "bold1": " Backend and Technologies ",
+  "areas": "and also in areas related to",
+  "bold2": " DevOps.",
+  "passionate": "Passionate about technology and continuous learning. with experience in",
+  "bold3": " MongoDB, SQL, Docker and Kubernetes",
+  "Knowledge": "Knowledge of",
+  "bold4": " Microservices, Monolithic, and Serverless Architectures.",
+  "cloud": " Cloud with",
+  "bold5": " AWS and Google Cloud.",
+  "findme": "FIND ME ON",
+  "feel": "Feel free to",
+  "connect": "connect",
+  "withme": "with me",
+  "profesisional": "Professional",
+  "Skillset": "Skillset",
+  "tools": "Tools",
+  "use": " I use",
+  "footer": "Multimedia Engineer and FullStack developer",
+
+  "recent": "My Recent",
+  "Works": "Works",
+
+  "description": "Here are some projects I've worked on recently. If you want to see more, you can visit my GitHub repository.",
+  "title1": "Ticketing Web with microservices (Still in development)",
+  "description1": "This is my personal web development project with a focus on the backend. It is designed to provide a ticket purchasing platform for various events. The backend has been developed using technologies like Node.js and TypeScript, and it utilizes a microservices-based architecture.",
+
+  "title2": "Global Platforms Torrens University Australia",
+  "description2": "The On-Demand platforms enable student engagement and recruitment through live events with live streaming and live chats, as well as personalized experiences within the platform. Developed by the TGES Team - Global Platforms for Torrens University Australia and other esteemed institutions such as Media Design School and BlueMountains, spanning across multiple countries including Australia and New Zealand.",
+
+  "title3": "MultiStreaming Torrens University Australia",
+  "description3": "On-Demand platform for engagement and recruitments of students through live events and personalized experience within the platform, Developed by the TGES Team - Global Platforms.",
+
+  "title4": "APIs-Architecture",
+  "description4": "Personal backend project meticulously crafted for a blog, meticulously implemented in Node.js with Express.js, tasked with seamlessly managing all database operations and queries within a MongoDB environment.",
+
+  "title5": "Datax Movil",
+  "description5": "Migration of the DataX software to new technologies for web and mobile platforms, development in Flutter with a backend in Node.js",
+
+  "title6": "Building Now App",
+  "description6": "Building Now is a company whose main activity is to connect consumers with providers through a virtual platform consisting of a website and a mobile application. This allows consumers to access the platform, gather information about the services offered, and make transactions to schedule technical visits directly with the providers electronically, as well as perform various complementary activities."
+}

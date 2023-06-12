@@ -1,0 +1,53 @@
+{
+  "welcome": "¡Bienvenido!",
+  "iam": "Soy",
+  "FullStack Developer": "Desarrollador FullStack",
+  "Multimedia Engineer": "Ingeniero Multimedia",
+  "LetMe": "Déjame",
+  "Introduce": "Presentarme",
+  "Myself": "a mí mismo",
+  "subtitle": "Soy Ingeniero Multimedia y Desarrollador FullStack de Cali, Colombia, con experiencia en comunicaciones internas, desarrollo web y móvil 🤖",
+  "fluent": "Domino tecnologías clásicas como",
+  "reactNode": " React.js y Node.js. ",
+  "interest": "Mis áreas de interés son",
+  "bold1": " Backend y Tecnologías ",
+  "areas": ", también en áreas relacionadas con",
+  "bold2": " DevOps.",
+  "passionate": "Apasionado por la tecnología y el aprendizaje continuo. Con experiencia en",
+  "bold3": " MongoDB, SQL, Docker y Kubernetes",
+  "Knowledge": "Conocimiento de",
+  "bold4": " Arquitecturas de Microservicios, Monolíticas y Serverless.",
+  "cloud": " Cloud con",
+  "bold5": " AWS y Google Cloud.",
+  "findme": "ENCUÉNTRAME EN",
+  "feel": "Sientete libre de",
+  "connect": "conectarte",
+  "withme": "conmigo",
+  "profesisional": "Habilidades",
+  "Skillset": "Profesionales",
+  "tools": "Herramientas",
+  "use": " que utilizo",
+  "footer": "Ingeniero Multimedia y Desarrollador FullStack",
+
+  "recent": "Mis",
+  "Works": "Trabajos",
+
+  "description": "Aquí tienes algunos de los proyectos en los que he trabajado recientemente. Si quieres ver más, puedes visitar mi repositorio en GitHub.",
+  "title1": "Ticketing Web con microservicios (Todavía en desarrollo)",
+  "description1": "Este es mi proyecto personal de desarrollo web con un enfoque en el backend. Está diseñado para proporcionar una plataforma de compra de entradas para diversos eventos. El backend ha sido desarrollado utilizando tecnologías como Node.js y TypeScript, y utiliza una arquitectura basada en microservicios.",
+
+  "title2": "Global Platforms Torrens University Australia",
+  "description2": "Las plataformas bajo demanda permiten la participación y contratación de estudiantes a través de eventos en vivo con transmisión y chats en vivo, así como experiencias personalizadas dentro de la plataforma. Desarrollado por el equipo TGES - Global Platforms para Torrens University Australia y otras instituciones de renombre como Media Design School y BlueMountains, abarcando varios países, incluyendo Australia y Nueva Zelanda.",
+
+  "title3": "MultiStreaming Torrens University Australia",
+  "description3": "Plataforma bajo demanda para la participación y contratación de estudiantes a través de eventos en vivo y experiencia personalizada dentro de la plataforma. Desarrollado por el equipo TGES - Global Platforms.",
+
+  "title4": "APIs-Architecture",
+  "description4": "Proyecto backend personal meticulosamente diseñado para un blog, implementado meticulosamente en Node.js con Express.js, encargado de gestionar de manera fluida todas las operaciones y consultas de la base de datos en un entorno de MongoDB.",
+
+  "title5": "Datax Móvil",
+  "description5": "Migración del software DataX a nuevas tecnologías para plataformas web y móviles, desarrollo en Flutter con un backend en Node.js",
+
+  "title6": "Building Now App",
+  "description6": "Building Now es una empresa cuya actividad principal es conectar consumidores con proveedores a través de una plataforma virtual que consiste en un sitio web y una aplicación móvil. Esto permite que los consumidores accedan a la plataforma, recopilen información sobre los servicios ofrecidos y realicen transacciones para programar visitas técnicas directamente con los proveedores de forma electrónica, además de realizar diversas actividades complementarias."
+}
