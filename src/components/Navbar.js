@@ -22,10 +22,12 @@ import { useTranslation } from "react-i18next";
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
+  const [checkedState, setCheckedState] = useState(true);
   const { i18n } = useTranslation();
 
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
+    setCheckedState(!checkedState);
   };
 
   function scrollHandler() {
@@ -115,7 +117,7 @@ function NavBar() {
             <Nav.Item className="fork-btn" style={{ color: "white" }}>
               {"   "}Language{"   "}
               <BootstrapSwitchButton
-                checked={true}
+                checked={checkedState}
                 onlabel="En"
                 offlabel="Es"
                 onChange={(checked) => {
